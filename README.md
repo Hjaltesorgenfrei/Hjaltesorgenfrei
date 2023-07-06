@@ -1,3 +1,5 @@
 ### Hello there
 
-Currently working on my master thesis, which is adding auto complete to VsCoq.
+Taking a break :)
+
+Contact information on [https://hjaltesorgenfrei.dk](https://hjaltesorgenfrei.dk)
